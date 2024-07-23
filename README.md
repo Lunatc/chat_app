@@ -1,6 +1,6 @@
 # Chat App
 
-##Requirements
+## Requirements
 
 <details><summary>Functional Requirements</summary>
 
