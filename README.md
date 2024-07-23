@@ -13,7 +13,7 @@
 	- Generate and manage encryption keys securely.
 3. File Sharing:
 	- Secure sharing of files (images, videos, documents, audio) with encryption.
-4. Interface:
+4. (?)Interface:
 	- Dark/light mode;
 	- 
 4. (?)Notifications:
@@ -35,7 +35,7 @@
 	- Secure storage for sensitive information on the device;
 	- Use HTTPS for all communications with servers;
 	- Regular security audits and vulnerability assessments.
-2. Usability:
+2. (?)Usability:
 	- Intuitive and user-friendly interface;
 	- Accessible design for users with disabilities;
 	- (?)Multi-language support.
