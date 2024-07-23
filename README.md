@@ -13,9 +13,6 @@
 	- Generate and manage encryption keys securely.
 3. File Sharing:
 	- Secure sharing of files (images, videos, documents, audio) with encryption.
-4. (?)Interface:
-	- Dark/light mode;
-	- 
 4. (?)Notifications:
 	- Real-time notifications for new messages.
 5. (?)User Authentication and Registration
